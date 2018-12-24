@@ -1,6 +1,6 @@
-from chars import CHARS_RADIXES
-import chars2num.convert as chars2num
-import num2chars.convert as num2chars
+from charint.chars import CHARS_RADIXES
+from charint.chars2num import convert as chars2num
+from charint.num2chars import convert as num2chars
 
 
 __all__ = [

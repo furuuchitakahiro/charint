@@ -1,4 +1,4 @@
-from chars import CHARS_RADIXES
+from charint import CHARS_RADIXES
 
 
 def convert(num: int, char_type_name) -> str:
